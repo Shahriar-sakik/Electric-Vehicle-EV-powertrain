@@ -8,8 +8,8 @@ Understand the system, identify energy losses, establish baseline performance, a
 
 #Project Details
 Course: Designing and implementing data pipeline 
-Duration: 
-Supervisor: 
+Duration: _______
+Supervisor: Leo & JP
 Vehicle / Model: Polestar 2
 
 #Project Scope
