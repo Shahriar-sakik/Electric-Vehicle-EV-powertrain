@@ -31,9 +31,13 @@ Dates: ____________________
 
 Planned Work
 Nayeem: Study charging, battery and BMS.
+
 Rayhan: Study inverter and motor operation.
+
 Shahriar: Study drivetrain and regenerative braking.
+
 Sadia: Study cooling, control and auxiliary power.
+
 Everyone: Combine findings and diagrams.
 
 Completed Work:
