@@ -10,7 +10,7 @@ Understand the system, identify energy losses, establish baseline performance, a
 Course: Designing and implementing data pipeline 
 Duration: _______
 Supervisor: Leo & JP
-Vehicle / Model: Polestar 2
+Vehicle / Model: Polestar 4
 
 #Project Scope
 Charging, battery, inverter, motor, mechanical drivetrain, regenerative braking, cooling and control systems.
